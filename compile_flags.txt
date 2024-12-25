@@ -1,0 +1,2 @@
+-Iinc
+-I./libft/include
